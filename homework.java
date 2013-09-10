@@ -22,3 +22,14 @@ class 19Exercise {
 			y++;
 		}
 	}
+	public static void hailstone(int n){
+		if ((n/2)>0) {
+			System.out.println((3*n) + 1);
+			
+		}else if {
+			System.out.println(n/2);
+		}
+
+	}
+
+}
