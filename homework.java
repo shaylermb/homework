@@ -12,4 +12,13 @@ class 19Exercise {
 			x--; 
 		}
 	}
-blah
+	public static void e(int x){
+		int y = 1;
+		int sum = x;
+		sum=+1;
+		while (z>.0000000000001) {
+			sum += Math.pow(x,y)/fac(y);
+			z = sum;
+			y++;
+		}
+	}
